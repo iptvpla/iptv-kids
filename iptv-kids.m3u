@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Мултфильмы",Карусель
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mult.png" group-title="Мултфильмы",Мульт 
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/11/TiJi_%282021%29.png/revision/latest/scale-to-width-down/200?cb=20240404135940&path-prefix=ru" group-title="Мултфильмы",Tiji
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/108/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ani.tlum.ru/assets/website/additional-sites/ani/images/logo.png" group-title="Мултфильмы",Ani
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/129/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYEvPZMUrLm8lGTMoewQ7ry-LBKD6dYu40w&s" group-title="Мултфильмы",Смайлик ТВ
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/2157/index.m3u8
